@@ -7,7 +7,7 @@ import { LayoutsComponent } from './layouts/layouts.component';
 
 const routes: Routes = [
   { path: "member", component: MemberComponent },
-  { path: "products", component: BarangayComponent },
+  { path: "barangay", component: BarangayComponent },
   { path: "classification", component: ClassificationComponent },
   { path: "layouts", component: LayoutsComponent }
 ];
